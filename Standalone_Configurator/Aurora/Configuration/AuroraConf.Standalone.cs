@@ -65,7 +65,7 @@
             {
                 try
                 {
-                    System.IO.File.Move("Configuration/Data/Data.ini", "ConfigurationData/Data.ini.old");
+                    System.IO.File.Move("Configuration/Data/Data.ini", "ConfigurationData/Data/Data.ini.old");
                 }
                 catch
                 {
@@ -80,7 +80,7 @@
             {
                 try
                 {
-                    System.IO.File.Move("Configuration/Data/MySql.ini", "ConfigurationData/MySql.ini.old");
+                    System.IO.File.Move("Configuration/Data/MySql.ini", "Configuration/Data/MySql.ini.old");
                 }
                 catch
                 {
