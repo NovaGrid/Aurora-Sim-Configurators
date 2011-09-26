@@ -1,12 +1,21 @@
 This is an experimental repo for Aurora-Sim installers/configurators.
 
-Standalone Configurator (Windows/Linux)
+******************************Standalone Configurator (Windows/Linux)
 
 Standalone Configurator allows you to easily configure your Aurora-Sim in Standalone mode, both with or without external access.
 
 Aurora-Sim Configurator will set all your *.ini files to match your needs of a Standalone region for Windows or Linux
 
 Just drop the AuroraConf.Standalone.exe in your Aurora-Sim/bin folder and start it.
+
+If you need to re-configure your Aurora-Sim, just run the configurator again.
+
+******************************Grid Configurator (Windows/Linux)
+Grid Configurator allows you to easily configure your Aurora-Sim in Grid mode.
+
+Aurora-Sim Configurator will set all your *.ini files to match your needs of a Grid running on Windows or Linux
+
+Just drop the AuroraConf.Grid.exe in your Aurora-Sim/bin folder and start it.
 
 If you need to re-configure your Aurora-Sim, just run the configurator again.
 
