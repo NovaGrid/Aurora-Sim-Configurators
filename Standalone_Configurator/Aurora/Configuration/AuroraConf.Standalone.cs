@@ -65,7 +65,7 @@
             {
                 try
                 {
-                    System.IO.File.Move("Configuration/Data/Data.ini", "ConfigurationData/Data/Data.ini.old");
+                    System.IO.File.Move("Configuration/Data/Data.ini", "Configuration/Data/Data.ini.old");
                 }
                 catch
                 {
