@@ -10,7 +10,7 @@ Just drop the AuroraConf.Standalone.exe in your Aurora-Sim/bin folder and start 
 
 If you need to re-configure your Aurora-Sim, just run the configurator again.
 
-TODO : Grid mode, HG/IWC mode, WebUI Installer, Optional Modules Installer.
+TODO : HG/IWC mode, WebUI Installer, Optional Modules Installer.
 
 Enjoy!
 Rico.
