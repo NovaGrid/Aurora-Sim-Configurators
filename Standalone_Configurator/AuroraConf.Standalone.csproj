@@ -32,12 +32,6 @@
   </PropertyGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
   <ItemGroup>
-    <Reference Include="OpenMetaverse">
-      <HintPath>.\OpenMetaverse.dll</HintPath>
-    </Reference>
-    <Reference Include="OpenMetaverseTypes">
-      <HintPath>.\OpenMetaverseTypes.dll</HintPath>
-    </Reference>
     <Reference Include="System" />
     <Compile Include="AssemblyInfo.cs" />
     <Compile Include="Global.cs" />

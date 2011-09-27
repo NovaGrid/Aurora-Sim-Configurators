@@ -29,8 +29,7 @@
     using System.IO;
     using System.Net;
     using System.Text;
-    using OpenMetaverse;
-
+    
     namespace Aurora.Configuration
 {
     public class Configure
