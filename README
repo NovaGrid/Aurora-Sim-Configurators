@@ -1,4 +1,4 @@
-This is experimental repo for Aurora-Sim installers/configurators.
+This is an experimental repo for Aurora-Sim installers/configurators.
 
 Standalone Configurator (Windows/Linux)
 
@@ -8,9 +8,9 @@ Aurora-Sim Configurator will set all your *.ini files to match your needs of a S
 
 Just drop the AuroraConf.Standalone.exe in your Aurora-Sim/bin folder and start it.
 
-If you need to re-configure you Aurora-Sim, just run the configurator again.
+If you need to re-configure your Aurora-Sim, just run the configurator again.
 
-TOD : Grid mode, HG/IWC mode, WebUI Installer, Optional Modules Installer.
+TODO : Grid mode, HG/IWC mode, WebUI Installer, Optional Modules Installer.
 
 Enjoy!
 Rico.
